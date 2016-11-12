@@ -1,0 +1,39 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.lemonde.fr" resolutions="1x" timestamp="1458336522243">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="15043300" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="tophaccueil.jpg" crc="3888293291" ref="index"/>
+    <file name="titregene2.png" crc="363821273" ref="index"/>
+    <file name="pico-bg1.jpg" crc="4243234209" ref="index"/>
+    <file name="pico-titre.png" crc="114822303" seo="true" ref="index"/>
+    <file name="pico-mods.png" crc="4097442213" seo="true" ref="index"/>
+    <file name="pico-t1.jpg" crc="3802190750" seo="true" ref="index"/>
+    <file name="pico-strip1.jpg" crc="3874020792" seo="true" ref="index"/>
+    <file name="pico-strip2.jpg" crc="129822651" seo="true" ref="index"/>
+    <file name="pico-t2.jpg" crc="267045735" seo="true" ref="index"/>
+    <file name="pico-t3.jpg" crc="105539148" seo="true" ref="index"/>
+    <file name="plombier-bg.jpg" crc="4218528617" ref="index"/>
+    <file name="plombier-titre.png" crc="3793088213" seo="true" ref="index"/>
+    <file name="plombier-mod.png" crc="214992644" seo="true" ref="index"/>
+    <file name="citatetata.png" crc="204664693" seo="true" ref="index"/>
+    <file name="touchbox.jpg" crc="515345164" seo="true" ref="index"/>
+    <file name="plombier-t1.jpg" crc="86269727" seo="true" ref="index"/>
+    <file name="citacesup.png" crc="305340343" seo="true" ref="index"/>
+    <file name="ploombierbig.jpg" crc="3941676916" seo="true" ref="index"/>
+    <file name="modsandco-bg.jpg" crc="436704796" ref="index"/>
+    <file name="citatemodsandco.png" crc="4180289391" seo="true" ref="index"/>
+    <file name="modsandco-strip1.jpg" crc="514895916" seo="true" ref="index"/>
+    <file name="modsandco-strip2.jpg" crc="442706400" seo="true" ref="index"/>
+    <file name="remonter.jpg" crc="92650869" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4213919136" seo="true" mt="1458334472944" redirect="true"/>
+</manifest>
